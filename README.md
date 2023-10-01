@@ -1,0 +1,2 @@
+# tehnologii-web
+Pentru facultate
